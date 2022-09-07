@@ -14,6 +14,13 @@ EN(Og Lang) - [Link](https://www.udemy.com/course/javascript-the-complete-guide-
 
 <br>
 
+## Author
+
+[ <img src="https://avatars.githubusercontent.com/u/28806196?v=4" width="100px" style="border-radius:50px"> <br> Maximilian Schwarzmüller](https://github.com/maxschwarzmueller)
+
+
+<br>
+
 ## 💻 Tech Stacks 💻
 
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Git_Hub-000?style=flat-square&logo=GitHub&logoColor=white"/> 
