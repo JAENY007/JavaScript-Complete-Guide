@@ -1,4 +1,5 @@
 [Eng | 영어](#01-introduction-what-is-javascript)
+/
 [Kor | 한국어](#01-소개-자바스크립트는-무엇인가)
 
 # 01-Introduction: What is JavaScript?
