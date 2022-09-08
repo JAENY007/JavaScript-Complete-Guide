@@ -33,6 +33,11 @@ and then it executes that machine code.
 
 This all happens in the browser with the help of the Javascript engine
 
+## 1.3 Dynamic? Weakly Typed?
+
+## 1.4 JavaScript Runs On A Host Environment
+
+## 1.5 JavaScript and Java
 
 <br>
 
@@ -63,3 +68,5 @@ JavaScript 코드를 작성하여 웹페이지의 효과를 주고 싶을때
 즉, 코드를 읽고 바로 실행하는 것이 아니라
 코드를 읽은 후 컴파일을 통해 기계어 코드로 변환하여
 컴퓨터가 이를 실행할 수 있도록 만든 후에 실행을 하는 것이다.
+
+## 1.3 동적, 약형 언어?

@@ -16,7 +16,7 @@ EN(Og Lang) - [Link](https://www.udemy.com/course/javascript-the-complete-guide-
 
 ## Author
 
-[ <img src="https://avatars.githubusercontent.com/u/28806196?v=4" width="100px" style="border-radius:50px"> <br> Maximilian Schwarzmüller](https://github.com/maxschwarzmueller)
+[ <img src="https://avatars.githubusercontent.com/u/28806196?v=4" width="80px" style="border-radius:80px"> <br> Maximilian Schwarzmüller](https://github.com/maxschwarzmueller)
 
 
 <br>
@@ -32,3 +32,5 @@ EN(Og Lang) - [Link](https://www.udemy.com/course/javascript-the-complete-guide-
 ## Index | 목차
 
 - [01-Introduction](https://github.com/JAENY007/JavaScript-Complete-Guide/tree/master/01-Introduction)
+  - [1.1 Summary](https://github.com/JAENY007/JavaScript-Complete-Guide/tree/master/01-Introduction#11-summary)
+  - [1.2 How Is JavaScript Excuted?](https://github.com/JAENY007/JavaScript-Complete-Guide/tree/master/01-Introduction#12-how-is-javascript-executed)
