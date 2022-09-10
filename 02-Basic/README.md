@@ -4,7 +4,7 @@
 
 # 02-Core Syntax
 
-## 1.1 Varibles & Constants
+## 2.1 Varibles & Constants
 
 ### Variables
 `Variables` : data container | data storage
@@ -51,21 +51,39 @@ let let // Cannot be used: keywords not allowed
 
 ```
 
-## 1.2 
+## 2.2 Operators
 
- 
+```javascript
+// Operators
 
-## 1.3 
++ // Add Numbers | Strings
 
-## 1.4 
+- // Subtract Numbers
 
-## 1.5 
+* // Multifly Numbers
+
+/ // Divide Numbers
+
+% // Divide Number, yield remainder
+
+** // Exponentiation (e.g. 2 ** 3 = 8)
+
+= // Assign value to variable
+
+```
+
+
+## 2.3 
+
+## 2.4 
+
+## 2.5 
 
 <br>
 
 # 02-기초 문법
 
-## 1.1 변수와 상수
+## 2.1 변수와 상수
 
 ### 변수
 `변수` : 변수는 데이터 저장소와도 같다.
@@ -112,8 +130,26 @@ let let // 자바스크립트에서 사용하는 키워드(명령어)는 변수�
 
 ```
 
-## 1.2 
+## 2.2 연산자
+
+```javascript
+// 연산자
+
++ // 숫자나 문자를 더함
+
+- // 숫자를 뺌
+
+* // 숫자를 곱함
+
+/ // 숫자를 나눔
+
+% // 숫자를 나누고 난 나머지
+
+** // 거듭제곱
+
+= // 변수 등에 값을 할당함
+
+```
 
 
-
-## 1.3 
+## 2.3 
